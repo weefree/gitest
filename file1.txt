@@ -1,1 +1,2 @@
 git init
+master modify 1
